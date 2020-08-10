@@ -10,7 +10,7 @@ Whatsapp does not have an open protocol, so I have used [selenium](https://githu
 # DEMO VIDEO
 [Watch Now](https://www.youtube.com/watch?v=BTlMerin54o)
 
-# For demo please request me here:
+# For demo please contact here:
 <!-- CONTACT -->
 ## Contact
 
